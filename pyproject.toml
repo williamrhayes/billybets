@@ -1,0 +1,19 @@
+[project]
+name = "billybets"
+version = "0.0.1"
+authors = [
+  { name="William Hayes", email="DIMMiN314@protonmail.com" },
+]
+description = "A python framework for sports betting"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/williamrhayes/pybet"
+"Bug Tracker" = "https://github.com/williamrhayes/pybet/issues"
