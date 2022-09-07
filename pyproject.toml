@@ -15,5 +15,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/williamrhayes/pybet"
-"Bug Tracker" = "https://github.com/williamrhayes/pybet/issues"
+"Homepage" = "https://github.com/williamrhayes/billybets"
+"Bug Tracker" = "https://github.com/williamrhayes/billybets/issues"
